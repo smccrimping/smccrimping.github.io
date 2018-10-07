@@ -1,13 +1,13 @@
 #title {
-	width:25%;
+	width:600px;
 	display: block;
-    margin-left: auto;
-    margin-right: auto;
+	margin:auto;
     transform: rotate(15deg);
+	position:static
 }
 
 #table {
-	width:50%;
+	width:500px;
 	text-align:middle;
 	color:white;
 	padding:10px;
@@ -19,7 +19,12 @@
     margin-left: auto;
     margin-right: auto;
 }
-
+#mainpage {
+	margin: auto;
+	width: 1000px;
+	position:static
+}
+	
 h1 {
 	text-align:center;
 	color:white;
