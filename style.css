@@ -49,9 +49,18 @@ table, th, td {
 	padding:5px;
 	border-spacing: 5px;
 }
+
 p {
 	font-size:20px;
 	text-align:center
+}
+
+a {
+	color:white
+}
+
+a:hover {
+	color:#afdeff
 }
 
 div.gallery {
