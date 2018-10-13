@@ -1,0 +1,95 @@
+#title {
+	width:600px;
+	display: block;
+	margin:auto;
+    transform: rotate(15deg);
+	position:static
+}
+#error {
+	width:500px;
+	display: block;
+	margin-left:auto;
+	margin-right:auto;
+	position:static
+}
+
+#table {
+	width:500px;
+	text-align:middle;
+	color:white;
+	padding:10px;
+}
+
+#crimp {
+	width:100px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#mainpage {
+	margin: auto;
+	width: 1000px;
+	position:static
+}
+	
+h1 {
+	text-align:center;
+	color:white;
+}
+
+h2 {
+	text-align:center;
+	color:white;
+}
+
+table, th, td {
+	border:1px solid white;
+	margin:auto;
+	text-align:center;
+	padding:5px;
+	border-spacing: 5px;
+}
+
+p {
+	font-size:20px;
+	text-align:center
+}
+
+a {
+	color:white
+}
+
+a:hover {
+	color:#afdeff
+}
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+div.member {
+	padding: 10px;
+	position: relative;
+}
+
+body {
+    background-image: url("resources/background.jpg");
+	color:white;
+}
